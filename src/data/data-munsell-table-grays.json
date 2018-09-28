@@ -1,0 +1,178 @@
+[
+  {
+    "prefix": "N10",
+    "croma": -1,
+    "hue": {
+      "id": -11,
+      "name": "nuetral"
+    },
+    "hex": "fffdff",
+    "id": -11,
+    "value": 10,
+    "rgb": [
+      255,
+      253,
+      255
+    ]
+  },
+  {
+    "prefix": "N9",
+    "croma": -1,
+    "hue": {
+      "id": -10,
+      "name": "nuetral"
+    },
+    "hex": "e8e1ed",
+    "id": -10,
+    "value": 9,
+    "rgb": [
+      232,
+      225,
+      237
+    ]
+  },
+  {
+    "prefix": "N8",
+    "croma": -1,
+    "hue": {
+      "id": -9,
+      "name": "nuetral"
+    },
+    "hex": "cdc6d1",
+    "id": -9,
+    "value": 8,
+    "rgb": [
+      205,
+      198,
+      209
+    ]
+  },
+  {
+    "prefix": "N7",
+    "croma": -1,
+    "hue": {
+      "id": -8,
+      "name": "nuetral"
+    },
+    "hex": "b2acb5",
+    "id": -8,
+    "value": 7,
+    "rgb": [
+      178,
+      172,
+      181
+    ]
+  },
+  {
+    "prefix": "N6",
+    "croma": -1,
+    "hue": {
+      "id": -7,
+      "name": "nuetral"
+    },
+    "hex": "97929a",
+    "id": -7,
+    "value": 6,
+    "rgb": [
+      151,
+      146,
+      154
+    ]
+  },
+  {
+    "prefix": "N5",
+    "croma": -1,
+    "hue": {
+      "id": -6,
+      "name": "nuetral"
+    },
+    "hex": "7d797f",
+    "id": -6,
+    "value": 5,
+    "rgb": [
+      125,
+      121,
+      127
+    ]
+  },
+  {
+    "prefix": "N4",
+    "croma": -1,
+    "hue": {
+      "id": -5,
+      "name": "nuetral"
+    },
+    "hex": "635f65",
+    "id": -5,
+    "value": 4,
+    "rgb": [
+      99,
+      95,
+      101
+    ]
+  },
+  {
+    "prefix": "N3",
+    "croma": -1,
+    "hue": {
+      "id": -4,
+      "name": "nuetral"
+    },
+    "hex": "4a474b",
+    "id": -4,
+    "value": 3,
+    "rgb": [
+      74,
+      71,
+      75
+    ]
+  },
+  {
+    "prefix": "N2",
+    "croma": -1,
+    "hue": {
+      "id": -3,
+      "name": "nuetral"
+    },
+    "hex": "333134",
+    "id": -3,
+    "value": 2,
+    "rgb": [
+      51,
+      49,
+      52
+    ]
+  },
+  {
+    "prefix": "N1",
+    "croma": -1,
+    "hue": {
+      "id": -2,
+      "name": "nuetral"
+    },
+    "hex": "1e1c1e",
+    "id": -2,
+    "value": 1,
+    "rgb": [
+      30,
+      28,
+      30
+    ]
+  },
+  {
+    "prefix": "N0",
+    "croma": -1,
+    "hue": {
+      "id": -1,
+      "name": "nuetral"
+    },
+    "hex": "000000",
+    "id": -1,
+    "value": 0,
+    "rgb": [
+      0,
+      0,
+      0
+    ]
+  }
+]
