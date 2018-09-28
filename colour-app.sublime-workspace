@@ -1,0 +1,443 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Imag",
+				"HelperImageFramer"
+			],
+			[
+				"st",
+				"style"
+			],
+			[
+				"s",
+				"script"
+			],
+			[
+				"image",
+				"imageFrame"
+			],
+			[
+				"total",
+				"totalHeight"
+			],
+			[
+				"ouer",
+				"outerBorder"
+			],
+			[
+				"outr",
+				"outerHeight"
+			],
+			[
+				"out",
+				"outerWidth"
+			],
+			[
+				"in",
+				"innerHeight"
+			],
+			[
+				"inn",
+				"innerWidth"
+			],
+			[
+				"pa",
+				"padding-bottom"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"p",
+				"position"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"b",
+				"background"
+			],
+			[
+				"padding-",
+				"padding-right"
+			],
+			[
+				"backgrou",
+				"background-color"
+			],
+			[
+				"cl",
+				"clientX"
+			],
+			[
+				"x",
+				"x"
+			],
+			[
+				"co",
+				"context"
+			],
+			[
+				"P",
+				"PointSampler"
+			],
+			[
+				"l",
+				"l"
+			],
+			[
+				"c",
+				"canvasPoint"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"border",
+				"border-left"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"y",
+				"y"
+			],
+			[
+				"cla",
+				"className"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"col",
+				"color"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/components/PointSampler.jsx",
+			"settings":
+			{
+				"buffer_size": 11715,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"last_filter": "pa",
+		"selected_items":
+		[
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"SFTP",
+				"Package Control: Satisfy Dependencies"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 465.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/markcummings/Documents/React/colour-app",
+		"/Users/markcummings/Documents/React/colour-app/public",
+		"/Users/markcummings/Documents/React/colour-app/src",
+		"/Users/markcummings/Documents/React/colour-app/src/classes",
+		"/Users/markcummings/Documents/React/colour-app/src/components"
+	],
+	"file_history":
+	[
+		"/Users/markcummings/Documents/React/colour-app/src/components/PixelSampler.jsx",
+		"/Users/markcummings/Documents/React/colour-app/src/components/PalletSwatchesSmall.jsx",
+		"/Users/markcummings/Documents/React/colour-app/src/components/PointSampler.jsx",
+		"/Users/markcummings/Documents/React/colour-app/src/classes/ImageFramer.js",
+		"/Users/markcummings/Documents/React/colour-app/src/components/PalletMenu.jsx",
+		"/Users/markcummings/Documents/Work Sites/LON-AD-II04/nl/vacatures/form_validate_captcha.asp",
+		"/Users/markcummings/Documents/Work Sites/LON-AD-II04/nl/vacatures/job-alerts-test.asp.LCK",
+		"/Users/markcummings/Documents/Work Sites/LON-AD-II04/nl/vacatures/job-alerts-test.asp",
+		"/Users/markcummings/Documents/Work Sites/LON-AD-II04/nl/vacatures/job-alerts.asp",
+		"/Users/markcummings/Documents/Work Sites/LON-AD-II04/nl/vacatures/jobalert_unsubscribe-test.asp",
+		"/Users/markcummings/Documents/Work Sites/LON-AD-II04/ssi/captcha/captcha.asp",
+		"/Users/markcummings/Documents/Work Sites/LON-AD-II04/ssi/captcha/recaptcha-v2-test.asp",
+		"/Users/markcummings/Documents/Work Sites/LON-AD-II04/sftp-config.json",
+		"/Users/markcummings/Documents/Work Sites/LON-AD-II04/nl/vacatures/jobalerts-registeredthanks.asp",
+		"/Users/markcummings/Documents/React/colour-app/src/helpers/helper-image-framer.js",
+		"/Users/markcummings/Documents/React/colour-app/src/App.css",
+		"/Users/markcummings/Documents/React/colour-app/public/index.html",
+		"/Users/markcummings/Documents/React/colour-app/src/components/PointLabels.jsx",
+		"/Users/markcummings/Documents/React/colour-app/src/classes/Points.js",
+		"/Users/markcummings/Documents/React/colour-app/src/components/PalletSampler.jsx",
+		"/Users/markcummings/Documents/React/colour-app/src/components/old/PalletMenu-old.js",
+		"/Users/markcummings/Documents/React/colour-app/src/components/ImageZoom.jsx",
+		"/Users/markcummings/Documents/React/colour-app/src/components/PixelSamplerSize.jsx",
+		"/Users/markcummings/Documents/React/colour-app/src/components/ImageSampler2.jsx",
+		"/Users/markcummings/Documents/React/colour-app/src/components/ImageSampler1.jsx",
+		"/Users/markcummings/Documents/React/colour-app/src/components/ImageSampler.jsx",
+		"/Users/markcummings/Documents/React/colour-app-0/src/components/ImageSampler.jsx",
+		"/Users/markcummings/Documents/React/colour-app-1/src/components/ImageSampler.jsx",
+		"/Users/markcummings/Documents/React/colour-app/src/App.js",
+		"/Users/markcummings/Documents/React/colour-app/src/components/PalletSwatches.jsx",
+		"/Users/markcummings/Documents/React/colour-app/src/components/PointLabel.jsx",
+		"/Users/markcummings/Documents/React/colour-app/src/components/PointLabel.js",
+		"/Users/markcummings/Documents/React/colour-app/src/components/pointSampler.jsx",
+		"/Users/markcummings/Documents/React/colour-app/src/classes/Swatches.js",
+		"/Users/markcummings/Documents/React/colour-app/src/components/old/PalletMenu.jsx",
+		"/Users/markcummings/Documents/React/colour-app/src/components/old/imageSampleTest.js",
+		"/Users/markcummings/Documents/React/colour-app/src/helpers/helper-color-avaerage-RGB.js",
+		"/Users/markcummings/Documents/React/colour-app/src/index.js",
+		"/Users/markcummings/Documents/React/colour-app/src/bootstrapCSS/bootstrap-theme.css",
+		"/Users/markcummings/Documents/React/colour-app/src/bootstrapCSS/bootstrap.min.css",
+		"/Users/markcummings/Documents/React/colour-app/src/bootstrapCSS/bootstrap-theme.min.css",
+		"/Users/markcummings/Documents/React/colour-app/src/bootStrapCSS/bootstrap-theme.min.css",
+		"/Users/markcummings/Documents/React/colour-app/src/bootStrapCSS/bootstrap.min.css",
+		"/Users/markcummings/Documents/React/colour-app/src/components/PalletMunsell.jsx",
+		"/Users/markcummings/Documents/React/colour-app/node_modules/async/dist/async.js",
+		"/Users/markcummings/Documents/React/colour-app/src/helpers/helper-color-convert-RGB.jsx",
+		"/Users/markcummings/Documents/React/colour-app/src/components/ImageLoader.jsx",
+		"/Users/markcummings/Documents/React/colour-app/src/components/PalletMenu-old.js",
+		"/Users/markcummings/Documents/React/colour-app/src/classes/Swatch.js",
+		"/Users/markcummings/Documents/React/colour-app/src/data/data-test-sampled.json",
+		"/Users/markcummings/Documents/React/colour-app/src/components/BootStrapTest.jsx",
+		"/Users/markcummings/Documents/React/colour-app/src/components/bootStrapTest.jsx",
+		"/Users/markcummings/Documents/React/colour-app/src/components/CanvasComponent.jsx",
+		"/Applications/MAMP/conf/php7.1.1/php.ini",
+		"/Users/markcummings/Documents/React/colour-app/src/components/SwatchesPallet.jsx",
+		"/Users/markcummings/Documents/React/colour-app/src/components/MunsellTable.jsx",
+		"/Users/markcummings/Documents/React/colour-app/src/data-munsell.json",
+		"/Users/markcummings/Documents/React/colour-app/src/data.json",
+		"/Users/markcummings/Documents/React/colour-app/src/json tree structure",
+		"/Users/markcummings/Documents/Work Mark/Color Sampler/Json Export/Classes/InOut/InOut.as",
+		"/Users/markcummings/Documents/Work Mark/Color Sampler/Json Export/Classes/Color/Munsell/FindMunsell.as",
+		"/Users/markcummings/Documents/React/my-app/src/App.js",
+		"/Users/markcummings/Documents/React/my-app/src/index.js",
+		"/Users/markcummings/Library/Application Support/Sublime Text 3/Packages/Babel/Babel.sublime-settings",
+		"/Users/markcummings/Documents/React/my-app/src/index.css",
+		"/Users/markcummings/Documents/React/React/my-app/public/index.html",
+		"/Users/markcummings/Documents/React/my-app/package.json",
+		"/Users/markcummings/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/markcummings/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/markcummings/Documents/Work Sites/BRM-LX-WEBTST01/application/controllers/Jobs.php"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"handleMouseOver",
+			"handleDragStart",
+			"handelMouseDown",
+			"handleSelectMode",
+			"handelCanvasMove",
+			"this.contextSource"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/components/PointSampler.jsx",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11715,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4749,
+								4749
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1504.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 30.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 98.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 98.0
+	},
+	"pinned_build_system": "",
+	"project": "colour-app.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 282.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

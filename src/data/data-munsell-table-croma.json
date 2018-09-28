@@ -1,0 +1,642 @@
+[
+  {
+    "prefix": "R",
+    "hex": "#fd0058",
+    "value": 5,
+    "id": 38,
+    "hue": {
+      "id": 0,
+      "name": "2.5R"
+    },
+    "croma": 20,
+    "rgb": [
+      253,
+      0,
+      88
+    ]
+  },
+  {
+    "prefix": "R",
+    "hex": "#fc003c",
+    "value": 5,
+    "id": 102,
+    "hue": {
+      "id": 1,
+      "name": "5.0R"
+    },
+    "croma": 20,
+    "rgb": [
+      252,
+      0,
+      60
+    ]
+  },
+  {
+    "prefix": "R",
+    "hex": "#f80015",
+    "value": 5,
+    "id": 166,
+    "hue": {
+      "id": 2,
+      "name": "7.5R"
+    },
+    "croma": 20,
+    "rgb": [
+      248,
+      0,
+      21
+    ]
+  },
+  {
+    "prefix": "R",
+    "hex": "#ff5600",
+    "value": 6,
+    "id": 236,
+    "hue": {
+      "id": 3,
+      "name": "10.0R"
+    },
+    "croma": 18,
+    "rgb": [
+      255,
+      86,
+      0
+    ]
+  },
+  {
+    "prefix": "YR",
+    "hex": "#ff7d00",
+    "value": 7,
+    "id": 298,
+    "hue": {
+      "id": 4,
+      "name": "2.5YR"
+    },
+    "croma": 20,
+    "rgb": [
+      255,
+      125,
+      0
+    ]
+  },
+  {
+    "prefix": "YR",
+    "hex": "#ff8a00",
+    "value": 7,
+    "id": 348,
+    "hue": {
+      "id": 5,
+      "name": "5.0YR"
+    },
+    "croma": 20,
+    "rgb": [
+      255,
+      138,
+      0
+    ]
+  },
+  {
+    "prefix": "YR",
+    "hex": "#ffad00",
+    "value": 8,
+    "id": 405,
+    "hue": {
+      "id": 6,
+      "name": "7.5YR"
+    },
+    "croma": 20,
+    "rgb": [
+      255,
+      173,
+      0
+    ]
+  },
+  {
+    "prefix": "YR",
+    "hex": "#ffb500",
+    "value": 8,
+    "id": 453,
+    "hue": {
+      "id": 7,
+      "name": "10.0YR"
+    },
+    "croma": 20,
+    "rgb": [
+      255,
+      181,
+      0
+    ]
+  },
+  {
+    "prefix": "Y",
+    "hex": "#ffbc00",
+    "value": 8,
+    "id": 498,
+    "hue": {
+      "id": 8,
+      "name": "2.5Y"
+    },
+    "croma": 18,
+    "rgb": [
+      255,
+      188,
+      0
+    ]
+  },
+  {
+    "prefix": "Y",
+    "hex": "#ffdf00",
+    "value": 9,
+    "id": 553,
+    "hue": {
+      "id": 9,
+      "name": "5.0Y"
+    },
+    "croma": 16,
+    "rgb": [
+      255,
+      223,
+      0
+    ]
+  },
+  {
+    "prefix": "Y",
+    "hex": "#ffe400",
+    "value": 9,
+    "id": 602,
+    "hue": {
+      "id": 10,
+      "name": "7.5Y"
+    },
+    "croma": 14,
+    "rgb": [
+      255,
+      228,
+      0
+    ]
+  },
+  {
+    "prefix": "Y",
+    "hex": "#f8e800",
+    "value": 9,
+    "id": 653,
+    "hue": {
+      "id": 11,
+      "name": "10.0Y"
+    },
+    "croma": 18,
+    "rgb": [
+      248,
+      232,
+      0
+    ]
+  },
+  {
+    "prefix": "GY",
+    "hex": "#e5ee00",
+    "value": 9,
+    "id": 701,
+    "hue": {
+      "id": 12,
+      "name": "2.5GY"
+    },
+    "croma": 16,
+    "rgb": [
+      229,
+      238,
+      0
+    ]
+  },
+  {
+    "prefix": "GY",
+    "hex": "#b0d900",
+    "value": 8,
+    "id": 747,
+    "hue": {
+      "id": 13,
+      "name": "5.0GY"
+    },
+    "croma": 20,
+    "rgb": [
+      176,
+      217,
+      0
+    ]
+  },
+  {
+    "prefix": "GY",
+    "hex": "#77e200",
+    "value": 8,
+    "id": 807,
+    "hue": {
+      "id": 14,
+      "name": "7.5GY"
+    },
+    "croma": 20,
+    "rgb": [
+      119,
+      226,
+      0
+    ]
+  },
+  {
+    "prefix": "GY",
+    "hex": "#00ef00",
+    "value": 8,
+    "id": 882,
+    "hue": {
+      "id": 15,
+      "name": "10.0GY"
+    },
+    "croma": 24,
+    "rgb": [
+      0,
+      239,
+      0
+    ]
+  },
+  {
+    "prefix": "G",
+    "hex": "#00d939",
+    "value": 7,
+    "id": 968,
+    "hue": {
+      "id": 16,
+      "name": "2.5G"
+    },
+    "croma": 26,
+    "rgb": [
+      0,
+      217,
+      57
+    ]
+  },
+  {
+    "prefix": "G",
+    "hex": "#00be65",
+    "value": 6,
+    "id": 1052,
+    "hue": {
+      "id": 17,
+      "name": "5.0G"
+    },
+    "croma": 28,
+    "rgb": [
+      0,
+      190,
+      101
+    ]
+  },
+  {
+    "prefix": "G",
+    "hex": "#00be78",
+    "value": 6,
+    "id": 1146,
+    "hue": {
+      "id": 18,
+      "name": "7.5G"
+    },
+    "croma": 28,
+    "rgb": [
+      0,
+      190,
+      120
+    ]
+  },
+  {
+    "prefix": "G",
+    "hex": "#009f75",
+    "value": 5,
+    "id": 1225,
+    "hue": {
+      "id": 19,
+      "name": "10.0G"
+    },
+    "croma": 28,
+    "rgb": [
+      0,
+      159,
+      117
+    ]
+  },
+  {
+    "prefix": "BG",
+    "hex": "#009d89",
+    "value": 5,
+    "id": 1311,
+    "hue": {
+      "id": 20,
+      "name": "2.5BG"
+    },
+    "croma": 24,
+    "rgb": [
+      0,
+      157,
+      137
+    ]
+  },
+  {
+    "prefix": "BG",
+    "hex": "#009c9f",
+    "value": 5,
+    "id": 1386,
+    "hue": {
+      "id": 21,
+      "name": "5.0BG"
+    },
+    "croma": 22,
+    "rgb": [
+      0,
+      156,
+      159
+    ]
+  },
+  {
+    "prefix": "BG",
+    "hex": "#00b4c4",
+    "value": 6,
+    "id": 1463,
+    "hue": {
+      "id": 22,
+      "name": "7.5BG"
+    },
+    "croma": 18,
+    "rgb": [
+      0,
+      180,
+      196
+    ]
+  },
+  {
+    "prefix": "BG",
+    "hex": "#00b3da",
+    "value": 6,
+    "id": 1525,
+    "hue": {
+      "id": 23,
+      "name": "10.0BG"
+    },
+    "croma": 18,
+    "rgb": [
+      0,
+      179,
+      218
+    ]
+  },
+  {
+    "prefix": "B",
+    "hex": "#00afe6",
+    "value": 6,
+    "id": 1581,
+    "hue": {
+      "id": 24,
+      "name": "2.5B"
+    },
+    "croma": 16,
+    "rgb": [
+      0,
+      175,
+      230
+    ]
+  },
+  {
+    "prefix": "B",
+    "hex": "#00acfa",
+    "value": 6,
+    "id": 1634,
+    "hue": {
+      "id": 25,
+      "name": "5.0B"
+    },
+    "croma": 16,
+    "rgb": [
+      0,
+      172,
+      250
+    ]
+  },
+  {
+    "prefix": "B",
+    "hex": "#00a7ff",
+    "value": 6,
+    "id": 1685,
+    "hue": {
+      "id": 26,
+      "name": "7.5B"
+    },
+    "croma": 16,
+    "rgb": [
+      0,
+      167,
+      255
+    ]
+  },
+  {
+    "prefix": "B",
+    "hex": "#008afb",
+    "value": 5,
+    "id": 1730,
+    "hue": {
+      "id": 27,
+      "name": "10.0B"
+    },
+    "croma": 18,
+    "rgb": [
+      0,
+      138,
+      251
+    ]
+  },
+  {
+    "prefix": "PB",
+    "hex": "#0082ff",
+    "value": 5,
+    "id": 1785,
+    "hue": {
+      "id": 28,
+      "name": "2.5PB"
+    },
+    "croma": 18,
+    "rgb": [
+      0,
+      130,
+      255
+    ]
+  },
+  {
+    "prefix": "PB",
+    "hex": "#005ff5",
+    "value": 4,
+    "id": 1832,
+    "hue": {
+      "id": 29,
+      "name": "5.0PB"
+    },
+    "croma": 20,
+    "rgb": [
+      0,
+      95,
+      245
+    ]
+  },
+  {
+    "prefix": "PB",
+    "hex": "#5300f8",
+    "value": 2,
+    "id": 1895,
+    "hue": {
+      "id": 30,
+      "name": "7.5PB"
+    },
+    "croma": 38,
+    "rgb": [
+      83,
+      0,
+      248
+    ]
+  },
+  {
+    "prefix": "PB",
+    "hex": "#7f00ff",
+    "value": 4,
+    "id": 2014,
+    "hue": {
+      "id": 31,
+      "name": "10.0PB"
+    },
+    "croma": 28,
+    "rgb": [
+      127,
+      0,
+      255
+    ]
+  },
+  {
+    "prefix": "P",
+    "hex": "#9c00f4",
+    "value": 3,
+    "id": 2091,
+    "hue": {
+      "id": 32,
+      "name": "2.5P"
+    },
+    "croma": 34,
+    "rgb": [
+      156,
+      0,
+      244
+    ]
+  },
+  {
+    "prefix": "P",
+    "hex": "#c100fd",
+    "value": 4,
+    "id": 2198,
+    "hue": {
+      "id": 33,
+      "name": "5.0P"
+    },
+    "croma": 32,
+    "rgb": [
+      193,
+      0,
+      253
+    ]
+  },
+  {
+    "prefix": "P",
+    "hex": "#d500ec",
+    "value": 4,
+    "id": 2289,
+    "hue": {
+      "id": 34,
+      "name": "7.5P"
+    },
+    "croma": 32,
+    "rgb": [
+      213,
+      0,
+      236
+    ]
+  },
+  {
+    "prefix": "P",
+    "hex": "#fe00e8",
+    "value": 5,
+    "id": 2397,
+    "hue": {
+      "id": 35,
+      "name": "10.0P"
+    },
+    "croma": 30,
+    "rgb": [
+      254,
+      0,
+      232
+    ]
+  },
+  {
+    "prefix": "RP",
+    "hex": "#fc00c0",
+    "value": 5,
+    "id": 2486,
+    "hue": {
+      "id": 36,
+      "name": "2.5RP"
+    },
+    "croma": 26,
+    "rgb": [
+      252,
+      0,
+      192
+    ]
+  },
+  {
+    "prefix": "RP",
+    "hex": "#ff009c",
+    "value": 5,
+    "id": 2567,
+    "hue": {
+      "id": 37,
+      "name": "5.0RP"
+    },
+    "croma": 24,
+    "rgb": [
+      255,
+      0,
+      156
+    ]
+  },
+  {
+    "prefix": "RP",
+    "hex": "#fe0084",
+    "value": 5,
+    "id": 2640,
+    "hue": {
+      "id": 38,
+      "name": "7.5RP"
+    },
+    "croma": 22,
+    "rgb": [
+      254,
+      0,
+      132
+    ]
+  },
+  {
+    "prefix": "RP",
+    "hex": "#fa006c",
+    "value": 5,
+    "id": 2708,
+    "hue": {
+      "id": 39,
+      "name": "10.0RP"
+    },
+    "croma": 20,
+    "rgb": [
+      250,
+      0,
+      108
+    ]
+  }
+]
